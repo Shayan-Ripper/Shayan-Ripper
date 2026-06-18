@@ -9,7 +9,7 @@ I'm a **Computer Engineering student** with a deep passion for **Cyber Security*
 - 🔐 Knowledge of **network penetration testing** and malware development
 - ⚡ Hands-on with **embedded systems** (Arduino pro micro , ESP32 , NodeMCU 8266 )
 - 🎯 Currently pivoting to **web development** — PHP, WordPress, and beyond
-- 🌱 Always learning: **Linux**, **networking**, and **security automation**
+- 🌱 Always learning: **Linux**, **Web development**, and **security automation**
 
 ---
 
@@ -35,7 +35,7 @@ I'm a **Computer Engineering student** with a deep passion for **Cyber Security*
 
 ### 💻 General Programming
 
-- **Python:** Scripting, automation, Scapy, socket programming
+- **Python:** Get information, Send data to APIs, Connect to telegrom bots
 - **Bash/Shell:** Automating pentesting workflows
 - **C/C++:** Understanding low-level memory, firmware manipulation
 
@@ -43,23 +43,12 @@ I'm a **Computer Engineering student** with a deep passion for **Cyber Security*
 
 ## 📡 Featured Projects
 
-> *Here you can pin your best repositories — I'll give you templates for each!*
 
-### 🕵️ Evil Twin Attack Automation
-> Automated Wi-Fi phishing attack using **hostapd**, **dnsmasq**, and **Python**  
-> 🔗 [Link to repo] — ⭐ 45 stars
 
 ### 🔌 HID Payload Generator
-> Generate custom Rubber Ducky scripts for **Arduino Pro Micro**  
-> 🔗 [Link to repo] — ⚡ 30 forks
 
-### 📡 BLE Scanner & Logger
-> Passive Bluetooth Low Energy sniffing with **ESP32**  
-> 🔗 [Link to repo] — 🐍 Python + MicroPython
 
-### 🌐 Personal WordPress Security Plugin
-> WIP: WordPress plugin to block brute-force login attempts  
-> 🔗 [Link to repo] — 🛡️ PHP + MySQL
+
 
 ---
 
