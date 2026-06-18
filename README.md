@@ -46,17 +46,3 @@ I'm a **Computer Engineering student** with a deep passion for **Cyber Security*
 
 
 ### 🔌 HID Payload Generator
-
-
-
-
----
-
-## 🧰 My Daily Toolkit
-
-```bash
-# My go-to commands
-nmap -sV -sC target.com
-airmon-ng start wlan0
-airodump-ng wlan0mon
-bettercap -eval "set arp.spoof.targets 192.168.1.1; arp.spoof on"
