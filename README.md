@@ -4,10 +4,10 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Engineering student** with a deep passion for **cybersecurity** and **ethical hacking**. My journey started with network penetration testing and has evolved into exploring the intersection of security and web development.
+I'm a **Computer Engineering student** with a deep passion for **Cyber Security** and **Web Developing**. My journey started with network penetration testing and has evolved into exploring the intersection of security and web development.
 
-- 🔐 Experienced in **network penetration testing** and malware analysis
-- ⚡ Hands-on with **embedded systems** (Arduino, ESP32, NodeMCU)
+- 🔐 Knowledge of **network penetration testing** and malware development
+- ⚡ Hands-on with **embedded systems** (Arduino pro micro , ESP32 , NodeMCU 8266 )
 - 🎯 Currently pivoting to **web development** — PHP, WordPress, and beyond
 - 🌱 Always learning: **Linux**, **networking**, and **security automation**
 
@@ -24,14 +24,14 @@ I'm a **Computer Engineering student** with a deep passion for **cybersecurity**
 | **HID Attacks** | Arduino Pro Micro, Rubber Ducky scripts |
 | **Firmware & Embedded** | ESP32, NodeMCU8266, SPIFFS, flash dumping |
 | **Malware Analysis** | Basic static/dynamic analysis, PE inspection |
-| **OS** | Kali Linux, Parrot OS, Arch |
+| **OS** | Arch & Black Arch linux , Kali Linux, Parrot OS |
 
 ### 🌐 Web Development (Learning)
 
 - **Backend:** PHP (OOP, MVC), MySQL
-- **Frontend:** HTML5, CSS3, JavaScript (vanilla)
+- **Frontend:** HTML5, CSS3, JavaScript 
 - **CMS:** WordPress (theme/plugin customization)
-- **Server:** Apache, Nginx basics
+- **Server:** Apache, MySQL
 
 ### 💻 General Programming
 
