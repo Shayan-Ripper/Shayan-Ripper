@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Engineering student** with a deep passion for **Cyber Security** and **Web Developing**. My journey started with network penetration testing and has evolved into exploring the intersection of security and web development.
+I'm a **Computer Engineering student** with a deep passion for **Cyber Security** and **Web Development**. My journey started with network penetration testing and has evolved into exploring the intersection of security and web development.
 
 - 🔐 Knowledge of **network penetration testing** and malware development
 - ⚡ Hands-on with **embedded systems** (Arduino pro micro , ESP32 , NodeMCU 8266 )
