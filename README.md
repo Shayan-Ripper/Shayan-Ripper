@@ -23,7 +23,6 @@ I'm a **Computer Engineering student** with a deep passion for **Cyber Security*
 | **Wireless Attacks** | Aircrack-ng, Bettercap, Evil Twin, BLE attacks |
 | **HID Attacks** | Arduino Pro Micro, Rubber Ducky scripts |
 | **Firmware & Embedded** | ESP32, NodeMCU8266, SPIFFS, flash dumping |
-| **Malware Analysis** | Basic static/dynamic analysis, PE inspection |
 | **OS** | Arch & Black Arch linux , Kali Linux, Parrot OS |
 
 ### 🌐 Web Development (Learning)
